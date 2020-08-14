@@ -17,3 +17,9 @@ On the *Plot and Table* tab, the user is presented with three inputs and two out
 The *Map* tab provides an overall visual of home values across the country for a specific year (1996 - 2020). The map is interactive and the user can pan and zoom to their will. Hovering over a specific county provides the user with the name of the county and the average home value for the year selected. The user can change the year and the size of the house with the inputs to the left. 
 
 The *About the Data* tab provides the user with a general overview of the data behind the app and a link to the source code.
+
+#### **Screenshots**
+
+![Plot and Table](docs/PlotTableExample.png)
+
+![Map](docs/MapExample.png)
